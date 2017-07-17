@@ -1,0 +1,14 @@
+C:\Users\Dirk Strauss\Documents\Visual Studio 2017\Projects\GoogleAddress\GoogleAddressValidator\ValidateAddress\bin\Debug\ValidateAddress.dll
+C:\Users\Dirk Strauss\Documents\Visual Studio 2017\Projects\GoogleAddress\GoogleAddressValidator\ValidateAddress\bin\Debug\ValidateAddress.pdb
+C:\Users\Dirk Strauss\Documents\Visual Studio 2017\Projects\GoogleAddress\GoogleAddressValidator\ValidateAddress\obj\Debug\ValidateAddress.csprojResolveAssemblyReference.cache
+C:\Users\Dirk Strauss\Documents\Visual Studio 2017\Projects\GoogleAddress\GoogleAddressValidator\ValidateAddress\obj\Debug\ValidateAddress.dll
+C:\Users\Dirk Strauss\Documents\Visual Studio 2017\Projects\GoogleAddress\GoogleAddressValidator\ValidateAddress\obj\Debug\ValidateAddress.pdb
+C:\Users\Dirk Strauss\Documents\Visual Studio 2017\Projects\GoogleAddress\GoogleAddressValidator\ValidateAddress\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dirk Strauss\Documents\Visual Studio 2017\Projects\GoogleAddress\GoogleAddressValidator\ValidateAddress\bin\Debug\Newtonsoft.Json.xml
+C:\z_Elysium\GoogleAddressValidator\AddressValidator\ValidateAddress\bin\Debug\ValidateAddress.dll
+C:\z_Elysium\GoogleAddressValidator\AddressValidator\ValidateAddress\bin\Debug\ValidateAddress.pdb
+C:\z_Elysium\GoogleAddressValidator\AddressValidator\ValidateAddress\bin\Debug\Newtonsoft.Json.dll
+C:\z_Elysium\GoogleAddressValidator\AddressValidator\ValidateAddress\bin\Debug\Newtonsoft.Json.xml
+C:\z_Elysium\GoogleAddressValidator\AddressValidator\ValidateAddress\obj\Debug\ValidateAddress.csprojResolveAssemblyReference.cache
+C:\z_Elysium\GoogleAddressValidator\AddressValidator\ValidateAddress\obj\Debug\ValidateAddress.dll
+C:\z_Elysium\GoogleAddressValidator\AddressValidator\ValidateAddress\obj\Debug\ValidateAddress.pdb
